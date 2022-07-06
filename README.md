@@ -26,3 +26,4 @@ My detailed report
 
 [VDA for 20m](./VDA_Model_20m/VDA_model.html)
 
+Physical dimensions and a possible way of not using any stand offs are in [Rigging Options](./VDA_Model_20m/VDA_pole.html)
